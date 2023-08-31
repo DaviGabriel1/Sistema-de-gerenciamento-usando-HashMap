@@ -50,6 +50,7 @@ public class SistemaDeGerenciamento {
                     consultarSituacao();
                 case 6:
                     System.exit(0);
+                    break;
         }
     }
 
